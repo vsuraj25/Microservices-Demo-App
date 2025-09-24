@@ -32,7 +32,7 @@ A simple demonstration of microservices architecture with CRUD operations and AP
 - **Frontend**: React, TypeScript
 - **Backend**: Django, Flask, Python
 - **Message Queue**: RabbitMQ
-- **Database**: SQLite
+- **Database**: MySQL
 - **Containerization**: Docker
 
 ## Setup and Installation
@@ -107,7 +107,3 @@ Services communicate through RabbitMQ message queues for:
 - Product creation events
 - Product update events  
 - Product deletion events
-
-## License
-
-MIT License

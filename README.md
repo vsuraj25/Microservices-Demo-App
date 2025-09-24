@@ -43,7 +43,7 @@ git clone <repo-url>
 cd microservices-demo
 ```
 
-2. Start all services
+2. Start all services individually
 ```bash
 docker-compose up --build
 ```
@@ -52,7 +52,7 @@ docker-compose up --build
    - Django Admin: http://localhost:8000/admin/
    - Flask API: http://localhost:8001/api/
    - React App: http://localhost:3000/
-   - RabbitMQ Management: http://localhost:15672/ (guest/guest)
+   - RabbitMQ Management: You can create your free RabbitMQ instance from https://www.cloudamqp.com/
 
 ## API Endpoints
 

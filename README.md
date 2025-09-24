@@ -11,13 +11,7 @@ A simple demonstration of microservices architecture with CRUD operations and AP
 - **Docker** - Containerization
 
 ## Project Structure
-
-```
-├── admin/              # Django admin service
-├── flask-app/          # Flask API service
-├── react-app/          # React frontend
-└── docker-compose.yml  # Container orchestration
-```
+<img width="5668" height="2344" alt="diagram" src="https://github.com/user-attachments/assets/eef5b51d-34da-499e-8113-82f5677cbcf7" />
 
 ## Features
 
